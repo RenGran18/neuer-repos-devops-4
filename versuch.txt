@@ -6,3 +6,6 @@ renaud änderung 16h02
 BRAVO EDUARDO!!!!! 
 
 Commit to master in Gruppe
+
+
+change to try the new azure test
